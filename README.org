@@ -21,16 +21,14 @@
 - Paperwork: either do it, diarise it, or ditch it.
 - Multitasking is not efficient for single-focused tasks.
 - Get rid of technology, turn off any notification, unsubscribe.
-- Protect your hours of real works.
+- Protect your hours of real work.
+- Separate "real hours" with breaks.
 - Take advantage of early hours in the day.
 - Create a concentrated environment.
 *** Fight Procrastination
-**** Get started
-- If you wait for motivation, it may never come.
-**** Allocate specific times
-- If you don't put a time, it's a lie.
-**** Build rewards
-- Only after!
+- Just get started: if you wait for motivation, it may never come.
+- Allocate specific times: if you don't put a time, it's a lie.
+- Build rewards, but only after!
 **** EXAMPLE: Writing
 - Reading one more article / doing one further experiment won't make you more ready to write.
 - Get a small dose of writing every day.
