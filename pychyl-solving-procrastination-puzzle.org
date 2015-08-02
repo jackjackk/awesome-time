@@ -1,0 +1,129 @@
+* Teaching Talk: Helping Students Who Procrastinate (Tim Pychyl)
+** Introduction
+- poem by John Lea in /Boys Own Paper/ (Vol. 37, Issue 3, Jan 1915)
+  - "...and though a year was given him, the task was still undone".
+- biggest problem in education
+  - and amount of self-regulation required is increasing w/ online material
+- sloth in religions (time is not a renewable resource)
+- 95% of students affected
+- we will address:
+  - "it's me" (personality)
+  - "it's the task" (nature of the goal)
+  - "it's the way I think" (e.g. negative thinker)
+  - "it's my lack of willpower" 
+** What is procrastination?
+- self-deceptive inner dialogue
+  - "Hard work often pays off after time but laziness always pays off now."
+  - "If a job is worth doing, it will still be worth doing tomorrow."
+  - "By not doing what you should be doing, you could be having so much fun."
+  - "This can wait."
+- it's
+  - all about giving in to feel good now
+  - affecting our future self
+  - not about having fun
+- in psychology:
+  - gap between intention and action
+  - voluntary irrational delay despite expectation of a potential negative outcome
+- all procrastination is delay, but not all delay is procrastination.
+  - many things belong to tomorrow
+  - sometimes we're truly really busy
+- sometimes we manage our emotions by managing tasks
+- it's not a time management issue
+** Consequences of procrastination
+- costs as
+  - reduced
+    - performance
+    - well-being (don't feel good about ourselves)
+    - health (through stress, more headaches, stomach aches, ill)
+    - relationships (family, also through stress)
+    - wellness behavior (eating, sleeping, exercising, getting timily treatments)
+  - increased
+    - regrets
+    - guilt (paralizing emotion)
+- procrastination is
+  - usually harmful
+  - sometimes harmless
+  - never helpful
+- has to do with emotions
+  - do I feel like it or not?
+** Key pieces of the self-regulation failure puzzle
+- central piece: weakness of will, *self-regulation failure* (like buying stuff you cannot afford, eating more than you need, problematic gambling), giving in to feel good
+  - classic negative reinforcement
+    - getting rid of a negative stimulus (e.g. umbrella, cold)
+      - I'm having negative emotions when I think about the task
+      - if I avoid the task, I feel better
+      - I reinforce it => I establish a procrastination habit
+      - takes a lot of work to get rid of it
+      - this is the issue, let's start here to start making changes to the habit
+- *Personality* (way we're made)
+  - not easy to change, stable aspect of us
+  - partly genetics, partly learned
+  - you won't procrastinate much if you
+    - are conscientious (dutiful, self-disciplined, organized, structured)
+    - are a self-oriented perfectionist (you do well for yourself)
+    - have higher emotional intelligence (it's more skill-based than trait-based)
+  - you're at risk of procrastination if you
+    - are not conscientious
+    - are impulsive (you cannot shield one intention from another)
+    - are a socially-prescribed perfectionist (you live up to others' people standards)
+    - have lower emotional intelligence
+  - you can't push people past developmental readiness
+    - prefrontal cortex is last part of our brain to develop (early adulthood to mature)
+    - identity may still have to be achieved
+- *Nature of our goals and intentions*
+  - task aversiveness
+    - nature varies depending on where you are in the project
+      - at all stages: boredom, frustration, resentment
+      - at inception/planning: lack of meaning (enjoyment, fun, pleasure, passion, self-identity)
+      - during action: lack of structure (autonomy, control, initiation, uncertainty) (where advisors can make a difference)
+  - abstract vs concrete
+    - concrete => it belongs to today
+    - abstract => it belongs to tomorrow
+- *What we think and belief*
+  - "I'm thinking I'm too stupid"
+  - "I work better/only under pressure"
+    - we actually make more errors
+    - pathetic
+    - professionals know it
+    - we have to develop a different habit
+  - counterfactuals
+    - upward (if only I've studied longer)
+    - downward (couldn't have been worse)
+      - it makes you feel better
+- *Self-control and willpower*
+  - it is like a muscle (we just wear it out)
+  - our stonenghe brain still thinks that sugar and fat are a good idea
+  - need to
+    - invest strategically limited resources
+    - strengthen will power
+** Some strategies for change
+- move from anemic goal intentions (too vague) to implementation intentions
+  - *in situation X, I will do behaviour Y to achieve subgoal Z*
+    - when this workshop ends today, I'm going straight to the library to read 4 pages of this paper I'm struggling to read to achieve the subgoal that I need to summarize 
+    - external cue for behavior is in the environment (X)
+    - helps on health and work
+- to the extent you can manage emotions, you can manage procrastination (no matter how I feel, I'm going to work)
+  - perceive it
+  - manage it ("I can have fear, I need not be my fear, because I can work from some other parts of my inner landscape.", e.g. I could work from my curiosity)
+  - understand it (you're not going to have always positive emotions)
+  - change it
+- help people see their own self-deception and be aware of your own
+- at inception stage, look for meaning; at action stage, make sure you have structure
+- break it down, take baby steps, know the next step (concrete => more urgent)
+- recognize when you're making excuse ("you can do it tomorrow", "it could have been worse")
+- you can always find ways to motivate yourselves (e.g. money)
+- meditate helps
+  - attention non judgementally back to where it belongs
+- ask yourself
+  - is there any way I could do this now?
+  - are you taking control of your life and having some sense of agency?
+  - why is it important for me? (value affirmation)
+- know enough
+  - your own limits / time frame
+  - good feeling of getting things done
+  - upward spiral (little progress fuels us)
+  - the moment where you exercise your self-control (choose whether you are going to work or not)
+  - your emotions
+- the busier you get, the more prone you'll be to get things done
+- bring future self into clear vision
+- www.procrastination.ca
