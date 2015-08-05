@@ -1,5 +1,7 @@
 * Articles
-- [[http://time.com/3210420/5-fool-proof-ways-to-end-procrastination-today/][5 Fool-Proof Ways to End Procrastination Today]] ([[file:time-fool-proof-procrastination.org][notes]]): Time article on causes of and remedies for procrastination.
+- [[http://alifeofproductivity.com/100-time-energy-attention-hacks-will-make-productive/][100 time, energy, and attention hacks to be more productive]] ([[file:bailey-100-hacks.org][notes]]): by Chris Bailey.
+- [[http://time.com/3210420/5-fool-proof-ways-to-end-procrastination-today/][5 Fool-Proof Ways to End Procrastination Today]] ([[file:time-fool-proof-procrastination.org][notes]]): article on causes of and remedies for procrastination by Time.
+- [[http://www.newyorker.com/science/maria-konnikova/a-procrastination-gene][Getting Over Procrastination]]: interview with Piers Steel on the genetics of procrastination and ways to deal with it by The New Yorker.
 - [[http://counselingcenter.illinois.edu/brochures/overcoming-procrastination][Overcoming Procrastination]] ([[file:illinois-overcoming-procrastination.org][notes]]): self-help brochure on overcoming procrastination from the Counseling Center of University of Illinois Urbana-Champaign.
 * Talks
 - [[http://podbay.fm/show/996720481/e/1433133000?autostart=1][Learn about GTD]] ([[file:allen-learn-about-gtd.org][notes]]): David Allen speaks with Mark Dillon in an
@@ -12,3 +14,7 @@
   research output along with your work/life balance; he covers
   prioritizing, goal setting and managing competing demands in a
   university context.
+* Websites
+- https://www.psychologytoday.com/blog/dont-delay: understanding procrastination and how to achieve our goals by Timothy A. Pychyl.
+- http://www.sparringmind.com/blog/: weekly essays on start-ups, creativity, and doing better work by Gregory Ciotti.
+- http://http-server.carleton.ca/~tpychyl/: information and research related to procrastination by Timothy A. Pychyl.

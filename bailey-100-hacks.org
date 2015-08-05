@@ -1,0 +1,128 @@
+* 100 time, energy, and attention hacks to be more productive
+[[http://alifeofproductivity.com/100-time-energy-attention-hacks-will-make-productive/][Source]] by Chris Bailey.
+** Hacks to get more time
+*** Manage time
+- *Limit how much time* you give yourself to work on important tasks.
+- *Keep a time diary* to realize how you're spending your time.
+- *Track time spent on the computer* with https://www.rescuetime.com/.
+- Group *maintenance tasks* (laundry, groceries, cleaning, watering plants, etc.) together *on one day* of the week.
+- *Work no more than 35 hours a week* to be the most productive and creative.
+*** Emails
+- *Keep emails to five sentences or less*.
+- *Tame your inbox* with http://emailga.me/.
+- *Roll up your *subscription emails into one daily email* with https://unroll.me.
+- *Stop organizing your email into folders*.
+*** Say no to
+- *TV*.
+- *Unproductive activities*.
+- *Perfection*.
+*** Misc
+- Learn to *touch type*.
+- *Save money*.
+** Hacks to spend time on the right things
+*** Prioritize
+- *List highest-leverage activities* (where 80% of your time should go).
+- *Complete at least 1 important but not urgent task per day*.
+- *Reassess high-leverage activities when procrastinating*.
+- Determine very *next action based on context, time available, energy available, and priorities*.
+- Be *mindful of how you spend your time* (e.g. hourly alarm).
+- *Slow down on important emails* (make sure you are complete, valuable, and creative).
+- *Structure your free time*.
+- *Plan more*.
+*** Just do it
+- *Shrink committed time until you no longer feel resistance* (15min? 10min? 5min?).
+- *Work for 25min, then take a 5min break* (Pomodoro Technique).
+- *If a task takes <2min, just do it*.
+- "I *don't have time* for that." is bull...t.
+** Body hacks
+*** Food & drink
+- *Eat better*.
+- Consume *caffeine strategically* (i.e. only when you need it)
+  - after 1h peak for 4-6h;
+  - water along;
+  - no empty stomach.
+- *Drink more water* (especially after wake up).
+- Keep a *food diary*.
+*** Environment
+- *Use colors*.
+  - Blue to stimulate mind.
+  - Yellow for emotions.
+  - Red for body.
+  - Green for balance.
+- *Avoid blue light before bed* (use https://justgetflux.com/)
+- *Expose more to natural light*.
+*** Move/rest
+- *Exercise* (not only for energy, also for better health, sleep, mood).
+- Get *enough sleep*.
+- Take a short *nap* when needed.
+- *Set thermostat* daily to 21-22C, overnight to 18.5C.
+- Act according to your energy.
+- Find your *most productive time* of the day.
+- *Smile*.
+** Mind hacks
+*** From the outside
+- *Start small*.
+- *Turn changes into habits*.
+- *Choose *high-quality stress-relief strategies*:
+  - exercising
+  - reading
+  - listening to music
+  - spending time w/ friends/family
+  - massaging
+  - walking
+  - meditating
+  - creating
+- *Break more*.
+- *Make more friends at work*.
+- *Schedule more meetings w/ energizing people*.
+- Recreate *coffee shop hum* with https://coffitivity.com/.
+- Recall *3 things you're grateful for* at the end of the day.
+- *Journal 1 great experience you had* each day.
+- *Let the air out* once in a while.
+*** From the inside
+- *Be less hard w/ yourself* (have more fun).
+- *Lower your expectations*.
+- *Realize that nobody cares* (feel free, follow what you're passionate about).
+- *Eat mindfully*: let your brain know that you will soon feel full and satisfied (overeating causes huge energy drains).
+- *Use productive visualization* (you have leave tomorrow, what do you make sure to get done before leaving?).
+- *Seek a moderate amount of conflict*.
+** Manage your attention
+- *Meditate*.
+- *Avoid multitasking*.
+- *Capture all open loops* (make it a 15min ritual).
+- *Keep a list of things you're waiting for*.
+- *Consume right food* (e.g. blueberries, green tea, avocados, leafy green vegetables, fatty fish, water, dark chocolate, flax seeds, and nuts.)
+- *Clear to neutral* (e.g. clean kitchen afterwards).
+- *Slow down* (take control of autopilot).
+- *Unplug from internet*.
+- *Rehearse how you'll act*.
+- *Use your smartphone less* (especially btw 8pm-8am).
+- *Engage by making challenge = skill*.
+- *Do less*.
+** Focus on the right things
+*** Habits
+- *Anticipate obstacles to new habits*.
+- *Reward yourself to solidify new habits*.
+- *Focus on the costs of bad habits*.
+- Identify keystone habits (e.g. waking up early).
+*** Goals
+- *Focus just on 3 outcomes per day*.
+- *Focus on doing the right things* instead of doing things right.
+- *Set specific, measurable, attainable, realistic and time-based goals*.
+- *View actions towards a goal not in terms of progress, but of commitment to the goal*.
+- Set *process goals* (which help you achieve a larger goal).
+- Work with a *purpose* in mind.
+*** Distractions
+- Create a *mindless list* (laundry, cleaning), doing all things from the list while listening to sth more productive (e.g. audiobook, TED talk).
+- *Keep distractions away for 20s*.
+- Shut off the phone when meeting w/ someone.
+- *Avoid mindless Internet surfing*.
+- *Shut off email notifications*.
+- Declare an *email holiday*.
+- Respond to *email in batches*.
+- Practice *active listening* (and have more meaningful conversations.
+*** Self
+- Adopt a *growth mindset*.
+- Contact your *future self*.
+- *Ask yourself for advice*.
+- *Life as 7 hotspots: mind, body, emotions, career, finances, relationships, fun*.
